@@ -1,2 +1,3 @@
 # seqnum
-A very simple sequence number generator
+
+This has been moved to my [mono(ish) repo](https://github.com/kevinfrei/packages.git).
